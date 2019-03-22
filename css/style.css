@@ -1,0 +1,36 @@
+body {
+  background-color: #ebfffb;
+  width: 800px;
+}
+
+hr {
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+		padding-bottom: 20px;
+}
+
+
+h1 {
+  color: #3161a3;
+}
+
+h2 {
+  color: #3161a3;
+}
+
+h3 {
+  color: #13abc4;
+}
+
+input {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+}
